@@ -12,5 +12,7 @@ Project was conducted on a directed network of E.coli metabolic reactions, store
   - in_degrees.m - algorithm to calculate in degree for each node
 
 ## .py files
+   - 
 
 ## .Rmd files
+   - NewEcoliFig_Stats.Rmd - Markdown file to merge output data, create new figure, and run new statistics (different correlation method and glms)
