@@ -13,5 +13,6 @@ Project was conducted on a directed network of E.coli metabolic reactions stored
 ## .py files
    - 
 
-## .Rmd files
-   - NewEcoliFig_Stats.Rmd - Markdown file to merge output data, create new figure, and run new statistics (different correlation method and glms)
+## .R files
+   - NewEcoliFig_Stats.R - Script to clean and merge output data from different sources (Python and MATLAB scripts), create a figure showing 5 different centrality metrics, and run new statistics on the data (different correlation methods and glms)
+   - 
