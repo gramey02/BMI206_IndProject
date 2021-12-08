@@ -1,4 +1,4 @@
-# Biostats 216 IndProject -- Last Updated 12/8/21
+# Biostats 216 Individual Project -- Last Updated 12/8/21
 Repo for all files relating to my individual project for Biostats 216, Fall 2021. Analysis was based on the paper that can be found here: https://bmcbioinformatics.biomedcentral.com/articles/10.1186/s12859-019-2897-z.
 
 ## Data files
