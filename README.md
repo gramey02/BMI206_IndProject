@@ -11,7 +11,7 @@ Project was conducted on a directed network of E.coli metabolic reactions stored
   - in_degrees.m - algorithm to calculate in degree for each node
 
 ## .py files
-   - 
+Please see the "compute graph metrics" and corresponding function scripts in "lib.py" of the code folder of the github site: https://github.com/eelxela/bmi206-project. This was a script written during the group analysis project I ran in order to calculate graph centrality metrics (excluding cascade number).
 
 ## .R files
    - NewEcoliFig_Stats.R - Script to clean and merge output data from different sources (Python and MATLAB scripts), create a figure showing 5 different centrality metrics, and run new statistics on the data (different correlation methods and glms)
