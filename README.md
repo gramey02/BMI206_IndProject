@@ -1,5 +1,5 @@
-# Biostats 216 Individual Project -- Last Updated 12/8/21
-Repo for all files relating to my individual project for Biostats 216, Fall 2021. Analysis was based on the paper that can be found here: https://bmcbioinformatics.biomedcentral.com/articles/10.1186/s12859-019-2897-z.
+# BMI 206 Individual Project -- Last Updated 12/8/21
+Repo for all files relating to my individual project for BMI 206, Fall 2021. Analysis was based on the paper that can be found here: https://bmcbioinformatics.biomedcentral.com/articles/10.1186/s12859-019-2897-z.
 
 ## Data files
 Project was conducted on a directed network of E.coli metabolic reactions stored in an adjacency matrix (AdjData_ecoli.xlsx) and an E.coli metabolic network (iJO1366.mat) from the BiGG database which can be found here: http://bigg.ucsd.edu/models/iJO1366.
