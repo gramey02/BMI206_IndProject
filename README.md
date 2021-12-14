@@ -1,4 +1,4 @@
-# BMI 206 Individual Project -- Last Updated 12/8/21
+# BMI 206 Individual Project -- Last Updated 12/13/21
 Repo for all files relating to my individual project for BMI 206, Fall 2021. Analysis was based on the paper that can be found here: https://bmcbioinformatics.biomedcentral.com/articles/10.1186/s12859-019-2897-z.
 
 ## Data files
