@@ -7,8 +7,8 @@ Project was conducted on a directed network of E.coli metabolic reactions stored
 ## .mat files
   - Ecoli_FBA.m - Script to run Flux balance analysis (FBA) to determine essential reactions
   - Ecoli_cascadeNums.m - Script to run the cascade algorithm on each node
-  - cascade.m - algorithm to calculate cascade number for a node
-  - in_degrees.m - algorithm to calculate in-degree for each node
+  - cascade.m - algorithm to calculate cascade number for a node (from Kim et al., 2019)
+  - in_degrees.m - algorithm to calculate in-degree for each node (from Kim et al., 2019)
 
 ## .py files
 Please see the "compute graph metrics" file and the corresponding function scripts in "lib.py" of the code folder of the github site: https://github.com/eelxela/bmi206-project. These were scripts written during the group analysis project that I ran in order to calculate all graph centrality metrics (excluding cascade number).
